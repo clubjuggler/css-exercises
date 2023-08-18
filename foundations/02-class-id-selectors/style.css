@@ -1,0 +1,19 @@
+.odd-class {
+    background-color: rgb(245, 117, 139);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number-2 {
+    color: rgba(17, 17, 158, 0.404);
+    font-size: 36px;
+}
+
+.odd-class.special {
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color: rgba(172, 255, 172, 0.664);
+    font-size: 24px;
+    font-weight: bold;
+}
